@@ -9,7 +9,7 @@ public class Main {
         boolean running = true;
 
         while (running) {
-            System.out.println("\nTASK MANAGER MENU");
+            System.out.println("\n-TASK MANAGER MENU-");
             System.out.println("1. Show tasks");
             System.out.println("2. Add task");
             System.out.println("3. Edit task");
